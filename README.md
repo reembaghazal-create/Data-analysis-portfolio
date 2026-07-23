@@ -20,3 +20,13 @@ This project focuses on analyzing business performance using Power BI to support
 - Data Visualization
 - Dashboard Development
 - Business Intelligence
+## Dashboard Preview
+
+### Dashboard 1
+![Dashboard 1](Screenshot%202026-04-13%20154507.png)
+
+### Dashboard 2
+![Dashboard 2](Screenshot%202026-04-13%20154523.png)
+
+### Dashboard 3
+![Dashboard 3](Screenshot%202026-04-13%20154546.png)
