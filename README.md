@@ -30,3 +30,26 @@ This project focuses on analyzing business performance using Power BI to support
 
 ### Dashboard 3
 ![Dashboard 3](Screenshot%202026-04-13%20154546.png)
+## Skills Demonstrated
+
+- Data Cleaning
+
+- Data Transformation (Power Query)
+
+- Data Visualization
+
+- KPI Analysis
+
+- Business Intelligence
+
+- Dashboard Design
+
+## Project File
+
+Power BI file:
+
+- businessIntelligence.pbix
+
+## Dataset
+
+The dataset contains business sales data used for analysis and dashboard creation.
